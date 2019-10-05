@@ -10,7 +10,6 @@ featuredimage: /img/img_0442.jpg
 tags:
   - recipes
   - gluten free
-  - ''
 ---
 ![Cupcakes on a plate in front of raw beets on a table.](/img/img_0442.jpg "The final result! And yes, these Gluten Free Beet Cupcakes taste just as good as they look.")
 
