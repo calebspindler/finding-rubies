@@ -46,7 +46,7 @@ So, after experimenting with a few recipes and tricks of my own, I have settled 
 5. In a separate bowl, combine all of the rest of the ingredients (dry ingredients).
 6. With a little at a time, add the dry ingredients to the wet mixture.  Make sure all the lumps are out.
 7. Fill up cupcake liners 3/4 of the way up.  Cook for 25 minutes at 375 degrees for normal cupcakes, 20-22 minutes for mini cupcakes. Once you stick a toothpick in a cupcake and it comes out clean, they are finished.
-8.  Let them cool down, because they like to fall apart if you take them out too soon.
+8. Let them cool down, because they like to fall apart if you take them out too soon.
 9. I enjoy them plain, but you may add your own icing or peanut butter on top to make things interesting.
 10. Enjoy!
 
