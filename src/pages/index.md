@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Finding Rubies
+image: /img/img_0402.jpeg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: 'Gems for the Body, Mind, and Soul'
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
