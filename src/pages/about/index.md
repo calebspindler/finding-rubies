@@ -2,7 +2,7 @@
 templateKey: about-page
 title: Hello! Thanks for stopping by!
 ---
-![Man, woman, and child standing in front of the ocean.](/img/img_5197.jpg "Family time in La Jolla, California.")
+![Man, woman, and child standing in front of the ocean.](/img/family-picture.jpg "Family time in La Jolla, California.")
 
 My name is Kayla, and I am a wife, a momma, and a nurse, living it up in San Diego, CA. I believe that as we grow older, we are never to stop seeking out ways in which we might flourish, ways that we might become more truly human.
 
