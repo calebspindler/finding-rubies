@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Finding Rubies
-image: /img/img_0402.jpeg
+image: /img/three-beets-header.jpeg
 heading: Great coffee with a conscience
 subheading: 'Gems for the Body, Mind, and Soul'
 mainpitch:
