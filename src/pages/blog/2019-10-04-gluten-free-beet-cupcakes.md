@@ -6,12 +6,12 @@ description: >-
   Cupcakes can't ever be healthy, right? Well, these Gluten Free Beet Cupcakes
   might just change your mind.
 featuredpost: true
-featuredimage: /img/img_0442.jpg
+featuredimage: /img/gluten-free-beet-cupcakes-plate.jpg
 tags:
   - recipes
   - gluten free
 ---
-![Cupcakes on a plate in front of raw beets on a table.](/img/img_0442.jpg "The final result! And yes, these Gluten Free Beet Cupcakes taste just as good as they look.")
+![Cupcakes on a plate in front of raw beets on a table.](/img/gluten-free-beet-cupcakes-plate.jpg "The final result! And yes, these Gluten Free Beet Cupcakes taste just as good as they look.")
 
 Sneaking vegetables into things that are already delicious has been a hobby of mine for the last few months. It’s so exciting to know that when you are eating a dessert, that it actually has some good earthy fruits or vegetables inside of it (not that desserts with vegetables inside should take the place of eating only vegetables, but you have to have a little sweet sometimes!). I started trying to put beets in desserts after my best friend recommended a recipe for chocolate cupcakes with beets inside. That’s when the obsession with chocolate and beets began.
 
@@ -19,7 +19,7 @@ Being a cardiac nurse, I have always wanted to like beets, because they are grea
 
 So, after experimenting with a few recipes and tricks of my own, I have settled on a recipe that I like.  Hope you enjoy!
 
-![A closeup of three raw beats on table.](/img/img_0402.jpeg "A know, it sounds crazy, but you won't regret it. Just add beets, and your cupcakes will be just that much healthier.")
+![A closeup of three raw beats on table.](/img/three-beats.jpg "A know, it sounds crazy, but you won't regret it. Just add beets, and your cupcakes will be just that much healthier.")
 
 # Ingredients
 
@@ -34,7 +34,7 @@ So, after experimenting with a few recipes and tricks of my own, I have settled 
 * 1/2 tsp baking powder
 * dash of salt
 
-![A person's hand spooning in gluten free beet cupcake mix into a muffin pan.](/img/img_0420.jpg "Yes, it looks a bit beet-ish, but once they are cooked, it looks more like a slightly red-tinted chocolate cupcake.")
+![A person's hand spooning in gluten free beet cupcake mix into a muffin pan.](/img/gluten-free-cupcakes-mix.jpg "Yes, it looks a bit beet-ish, but once they are cooked, it looks more like a slightly red-tinted chocolate cupcake.")
 
 # Instructions
 
@@ -49,4 +49,4 @@ So, after experimenting with a few recipes and tricks of my own, I have settled 
 9. I enjoy them plain, but you may add your own icing or peanut butter on top to make things interesting.
 10. Enjoy!
 
-![Three cupcakes sitting in a row on a plate.](/img/img_0454.jpg "Check that out! Looking at those cupcakes, you wouldn't even think they were gluten free or made with beets!")
+![Three cupcakes sitting in a row on a plate.](/img/gluten-free-beet-cupcakes.jpg "Check that out! Looking at those cupcakes, you wouldn't even think they were gluten free or made with beets!")
