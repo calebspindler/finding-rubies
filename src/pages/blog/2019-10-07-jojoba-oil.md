@@ -5,7 +5,7 @@ date: 2016-09-12T22:41:08.285Z
 description: >-
   Looking for a more natural way to take care of your skin? Jojoba oil might
   just be what you are looking for!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/img_5202.jpeg
 tags:
   - healthy living
