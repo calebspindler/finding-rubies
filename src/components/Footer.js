@@ -11,14 +11,13 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-text-white-ter">
-        <div className="content has-text-centered">
-          Finding Rubies
-          {/* <img
+        {/* <div className="content has-text-centered">
+          <img
             src={logo}
             alt="Kaldi"
             style={{ width: '14em', height: '10em' }}
-          /> */}
-        </div>
+          />
+        </div> */}
         <div className="content has-text-centered has-text-white-ter">
           <div className="container has-text-white-ter">
             <div className="columns">
