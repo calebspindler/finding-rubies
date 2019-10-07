@@ -6,12 +6,12 @@ description: >-
   Looking for a more natural way to take care of your skin? Jojoba oil might
   just be what you are looking for!
 featuredpost: false
-featuredimage: /img/img_5202.jpeg
+featuredimage: /img/jojoba-oil.jpg
 tags:
   - healthy living
   - natural beauty
 ---
-![Jojoba oil in a glass jar.](/img/img_5202.jpeg "Jojoba oil can be used for a number of different things: acne, dry skin, bruises and more.")
+![Jojoba oil in a glass jar.](/img/jojoba-oil.jpg "Jojoba oil can be used for a number of different things: acne, dry skin, bruises and more.")
 
 I remember when I was a little girl my grandma would put cream (lotion) on at all times of the day. She would often tell me to have cream in my purse, cream in the bathroom to use after I got out of the shower and after I washed my hands, and even a special cream for my face. I always thought she was being a little over the top, and maybe she was, but as I have gotten older I have realized the importance of taking care of the skin that you are blessed with for your whole life. After all, your skin is the largest organ of your body and the first protector against anything that could harm you.
 
