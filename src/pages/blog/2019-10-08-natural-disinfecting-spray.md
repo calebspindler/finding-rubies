@@ -6,7 +6,7 @@ description: >-
   Looking for a natural way to disinfect? This Natural Disinfecting Spray recipe
   is the perfect solution (pun intended)?
 featuredpost: false
-featuredimage: /img/natural-disinfecting-spray.jpg
+featuredimage: /img/thieves-cinnamon-sticks.jpg
 tags:
   - healthy living
   - cleaning
