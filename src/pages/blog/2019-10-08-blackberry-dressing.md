@@ -5,7 +5,7 @@ date: 2017-06-04T21:25:00.782Z
 description: >-
   Blackberries are great for salad dressings! Try out this recipe and let me
   know what you think!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blackberries-white-plate.jpg
 tags:
   - recipes
