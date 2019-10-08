@@ -5,7 +5,7 @@ date: 2018-01-19T23:30:19.289Z
 description: >-
   Want ice cream without the added sugar? Read on for a healthy alternative to
   everyone's favorite dessert!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/banana-ice-cream.jpg
 tags:
   - recipes
