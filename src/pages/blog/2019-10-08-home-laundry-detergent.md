@@ -5,7 +5,7 @@ date: 2017-03-16T21:11:32.831Z
 description: >-
   Laundry detergent without a long list of ingredients that are unpronounceable?
   That can't exist, right? Read on, my friend!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/laundry-detergent-recipe.jpg
 tags:
   - healthy living
