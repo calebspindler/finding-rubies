@@ -5,7 +5,7 @@ date: 2017-07-10T22:12:44.866Z
 description: >-
   Salsa so good you want to dance the Salsa! Read on for my absolute favorite
   salsa recipe!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/salsa-pepper-dish.jpg
 tags:
   - recipes
