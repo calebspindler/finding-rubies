@@ -5,7 +5,7 @@ date: 2017-01-15T00:44:04.091Z
 description: >-
   Cupcakes can't ever be healthy, right? Well, these Gluten Free Beet Cupcakes
   might just change your mind.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/gluten-free-beet-cupcakes-plate.jpg
 tags:
   - recipes
