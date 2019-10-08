@@ -11,8 +11,6 @@ tags:
   - healthy living
   - cleaning
 ---
-![A spray bottle consisting of a natural disinfecting spray solution beside cinnamon sticks and a bottle of thieves essential oil.](/img/natural-disinfecting-spray.jpg "If you are looking for a way to disinfect naturally, this is the perfect recipe!")
-
 Like any logical person, I am not a fan of germs. Maybe it’s due to the fact that I am in the nursing profession, but I am always thinking about what kinds of ‘crummies’ are on what my family and I are touching and what they could do to us. That being said, when I get to the ‘disinfecting’ part of cleaning, I get really excited. Something about knowing a surface or piece of furniture is rid of bacteria gives me some deep sense of satisfaction.
 
 Unfortunately, many of the cleaners that are so good at taking out bacteria and viruses are also harmful to your health, especially if absorbed through skin or accidentally ingested. With a new baby running around and chewing on anything he can get his hands on, I knew I wanted a cleaner that would get rid of the germs, without leaving harmful chemicals on all of the surfaces he uses as chew toys. I researched and tried a couple of different recipes for a homemade cleaner, tweaked them until I liked it, and have been using it for months now. I absolutely love the way it cleans, and that it rids our home of germs, without covering it with chemicals that I can’t pronounce.
