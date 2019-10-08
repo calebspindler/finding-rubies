@@ -26,7 +26,7 @@ So, after experimenting with a few recipes and tricks of my own, I have settled 
 * 1/2 cup roasted pureed beets (depending on size, one should be enough)
 * 1 cup almond milk
 * 1/4 cup coconut oil
-* 1/2 cup white sugar ( You can substitute a little less than 1/2 cup honey if you prefer)
+* 1/3 cup honey
 * 1 Tbs vanilla or almond extract (I prefer almond for this recipe)
 * 1 cup gluten free flour blend
 * 1/2 cup cocoa powder (unsweetened)
