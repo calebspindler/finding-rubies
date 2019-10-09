@@ -5,7 +5,7 @@ date: 2018-07-01T22:57:50.345Z
 description: >-
   Miso soup. No introduction needs to be made. Read on for a tasty and extremely
   healthy miso soup recipe!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/miso-soup-bok-choy.jpg
 tags:
   - recipes
