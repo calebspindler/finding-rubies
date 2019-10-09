@@ -8,7 +8,7 @@ description: >-
   Tuesday, when you see that there are a number of ingredients that you can't
   even pronounce. Fret no more: below you'll find a recipe for taco seasoning
   without the BS!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/taco-seasoning-recipe.jpg
 tags:
   - recipes
