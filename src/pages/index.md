@@ -5,12 +5,14 @@ image: /img/three-beets-header.jpeg
 heading: Great coffee with a conscience
 subheading: 'Gems for the Body, Mind, and Soul'
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Rubies?
+  description: >-
+    Finding Rubies is about slowing down, taking in the beauty and wisdom that
+    is all around us. A ruby is a rare and expensive gem, but Ruby was also the
+    name of my grandmother, who instilled in me a passion for life, a love for
+    the wisdom of the world. Over the years, the word "ruby" has become a
+    metaphor for wisdom to me. And that's what this site is about, seeking and
+    finding rubies.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
