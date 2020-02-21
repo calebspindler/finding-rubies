@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Finding Rubies
 image: /img/three-beets-header.jpeg
-heading: It's about one woman's search for wisdom
+heading: It's about searching for wisdom.
 subheading: 'Gems for the Body, Mind, and Soul'
 mainpitch:
   title: Rubies?
